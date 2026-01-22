@@ -24,10 +24,12 @@
   <div style="margin: 0 auto; text-align: center;">
     
   <h3>🚀 Languages</h3>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 
   <h3>🧩 Frontend</h3>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -71,3 +73,14 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=toplionby421" />
   </a>
 </div>
+
+---
+
+## 🏆 대내외활동 · 공모전
+
+| 활동명 | 기간 | 수상내역 |
+|------|------|----------|
+| ICCAS 2025 | 2025.06.27 ~ 2025.08.31 | 🥈 Silver Award |
+| K-HACKATHON 13 | 2025.06.16 ~ 2025.08.13 | K-HACKATHON 13 본선 진출 |
+| IRE-Asia CEDC 한중일 대회 | 2024.09.02 ~ 2024.12.27 | 🥈 Silver Award |
+| 충청권 2024 아이디어 및 SW 공모전 | 2024.07.01 ~ 2024.09.11 | 🥇 최우수상 | 
