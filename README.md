@@ -5,11 +5,6 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me 🧑‍💻 </h2>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/hyoung.__.woo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-
   <!-- Gmail -->
   <a href="mailto:toplionby421@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -49,7 +44,6 @@
 
   ### 🗂 Database  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
   ### 🧠 AI / Machine Learning  
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ai&logoColor=black">
@@ -76,4 +70,16 @@
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Bakhyoungwoo&show_icons=true&theme=radical" />
+
+  ---
+
+## 대내외활동 · 공모전
+
+| 활동명 | 기간 | 수상내역 | 
+|------|------|----------|
+| 충청권 2024 아이디어 및 SW 개발 공모전 | 2024.07.01 ~ 2024.09.11 | 🥇 최우수상 |
+| K-HACKATHON 13 | 2025.06.16 ~ 2025.08.13 | 🏅K Hackathon 13 본선 진출 |
+| ICCAS 2025 | 2025.06.27 ~ 2025.08.31 | 🥈 Silver Award |
+| IRE-Asia CEDC 한중일 대회 | 2024.09.02 ~ 2024.12.27 | 🥈 Silver Award | 
+
 </div>
