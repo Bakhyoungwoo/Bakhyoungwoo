@@ -35,17 +35,16 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-  ### 🛠 Backend / Server  
+  ### 🛠 Backend
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
   ### 🗂 Database  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-  ### 🧠 AI / Machine Learning  
+  ### 🧠 AI
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ai&logoColor=black">
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
@@ -61,25 +60,12 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
   </div>
-</div>
+준
 
-<br>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 GitHub Stats 📋 </h2>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakhyoungwoo&show_icons=true&theme=radical" />
-
-  ---
-
-## 대내외활동 · 공모전
-
-| 활동명 | 기간 | 수상내역 | 
-|------|------|----------|
-| 충청권 2024 아이디어 및 SW 개발 공모전 | 2024.07.01 ~ 2024.09.11 | 🥇 최우수상 |
-| K-HACKATHON 13 | 2025.06.16 ~ 2025.08.13 | 🏅K Hackathon 13 본선 진출 |
-| ICCAS 2025 | 2025.06.27 ~ 2025.08.31 | 🥈 Silver Award |
-| IRE-Asia CEDC 한중일 대회 | 2024.09.02 ~ 2024.12.27 | 🥈 Silver Award | 
+<p align="center">
+  <a href="https://solved.ac/toplionby421">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=toplionby421" />
+  </a>
+</p>
 
 </div>
